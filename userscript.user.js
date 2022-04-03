@@ -16,7 +16,7 @@ if (window.top !== window.self) {
                 i.src = "http://place-bluey.ddns.net:3987/maps/blank.png";
                 i.onload = () => {
                     if (i.width === i.height) {
-                        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
+                        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
                     } else {
                         i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
                     }
