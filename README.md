@@ -32,7 +32,7 @@ This is intended for cluster users running multiple accounts. If you don't have 
 ### Installation instructions
 
 1. Install [NodeJS](https://nodejs.org/).
-2. Download the bot via [this link](https://github.com/lirolake/place-bluey/archive/refs/heads/main.zip).
+2. Download the bot via [this link](https://github.com/lirolake/place-bluey/archive/refs/heads/master.zip).
 3. Extract the bot anywhere on your desktop
 4. Open a command prompt/terminal in this folder — Windows: Shift+right mousebutton in the folder -> Click on "open Powershell here"
 5. Install the dependencies: `npm i`
