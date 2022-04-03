@@ -51,7 +51,7 @@ const COLOR_MAPPINGS = {
   '#FFFFFF': 31
 };
 
-let rgbaJoin = (a1, a2, rowSize = 1000, cellSize = 4) => {
+let rgbaJoin = (a1, a2, rowSize = 2000, cellSize = 4) => {
     const rawRowSize = rowSize * cellSize;
     const rows = a1.length / rawRowSize;
     let result = new Uint8Array(a1.length + a2.length);
@@ -213,11 +213,11 @@ function place(x, y, color, accessToken = defaultAccessToken) {
 					'actionName': 'r/replace:set_pixel',
 					'PixelMessageData': {
 						'coordinate': {
-							'x': x % 1000,
-							'y': y % 1000
+							'x': x % 2000,
+							'y': y % 2000
 						},
 						'colorIndex': color,
-						'canvasIndex': (x > 999 ? 1 : 0)
+						'canvasIndex': (x > 1999 ? 1 : 0)
 					}
 				}
 			},
