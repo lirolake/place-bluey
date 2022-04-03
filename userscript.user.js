@@ -13,7 +13,7 @@ if (window.top !== window.self) {
         document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
             (function () {
                 const i = document.createElement("img");
-                i.src = "http://place-bluey.ddns.net:3987/maps/blank.png";
+                i.src = "https://raw.githubusercontent.com/lirolake/place-bluey/master/blank.png";
                 i.onload = () => {
                     if (i.width === i.height) {
                         i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
