@@ -5,6 +5,7 @@ This is intended for cluster users running multiple accounts. If you don't have 
 ### How to get your reddit_session cookie
 **NOTE: People have reported that this is annoying to do on chrome because text gets unselected. Therefore, we recommend that you use Firefox.**
 People have reported that you can find it in: Dev Tools -> Application -> Cookies -> reddit_session
+You could also use a cookie editor extension such as [https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm)
 
 1. Go to [r/place](https://reddit.com/r/place) (make sure you are logged in on the account you want to get the cookie for)
 2. Open dev tools (F12 on Chrome) and go to the network tab
