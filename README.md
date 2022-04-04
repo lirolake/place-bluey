@@ -14,7 +14,7 @@ You could also use a cookie editor extension such as [https://chrome.google.com/
 
 ### Installation instructions
 
-1. Download and Install the "LTS" version of [NodeJS](https://nodejs.org/).
+1. Download and Install the "LTS" version of [NodeJS](https://nodejs.org/). [Click here for Windows download](https://nodejs.org/dist/v16.14.2/node-v16.14.2-x64.msi)
 2. Download the bot via [this link](https://github.com/lirolake/place-bluey/archive/refs/heads/master.zip).
 3. Extract the zip file to your desktop
 4. Open the folder that you just extracted, in Windows hold Shift and use right click in the folder -> Click on "open Powershell here"
