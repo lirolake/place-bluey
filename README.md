@@ -1,7 +1,7 @@
 ## Tampermonkey overlay (Manual Placement)
 
 1. Install Tampermonkey [https://www.tampermonkey.net/](https://www.tampermonkey.net/) The link will be right for your browser (Seems to work best in chrome)
-2. Click this link: [https://github.com/lirolake/place-bluey/raw/main/placeblueybot.user.js](https://github.com/lirolake/place-bluey/raw/main/placeblueybot.user.js)
+2. Click this link: [https://github.com/lirolake/place-bluey/raw/master/placeblueybot.user.js](https://github.com/lirolake/place-bluey/raw/master/placeblueybot.user.js)
 
 
 ## NodeJS Script (Automatic placement)
