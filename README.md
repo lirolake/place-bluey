@@ -1,6 +1,4 @@
-## Headless script instructions (automatic placement)
-
-This is intended for cluster users running multiple accounts. If you don't have any technical experience, just use the browser script instead.
+## Automatic placement
 
 ### How to get your reddit_session cookie
 **NOTE: People have reported that this is annoying to do on chrome because text gets unselected. Therefore, we recommend that you use Firefox.**
@@ -16,12 +14,14 @@ You could also use a cookie editor extension such as [https://chrome.google.com/
 
 ### Installation instructions
 
-1. Install [NodeJS](https://nodejs.org/).
+1. Download and Install the "LTS" version of [NodeJS](https://nodejs.org/).
 2. Download the bot via [this link](https://github.com/lirolake/place-bluey/archive/refs/heads/master.zip).
-3. Extract the bot anywhere on your desktop
-4. Open a command prompt/terminal in this folder — Windows: Shift+right mousebutton in the folder -> Click on "open Powershell here"
-5. Install the dependencies: `npm ci`
-6. Execute the bot `node bot.js SESSION_COOKIE_HERE`
-7. BONUS: You can repeat these steps for any amount of accounts you'd want. Keep in mind to use different accounts.
+3. Extract the zip file to your desktop
+4. Open the folder that you just extracted, in Windows hold Shift and use right click in the folder -> Click on "open Powershell here"
+5. In the Powershell window, type `npm ci`
+6. Once complete, you can then type: `node bot.js SESSION_COOKIE_HERE`
+Note: This window needs to stay open for it to work, do not close the Powershell window
+
+BONUS: You can repeat these steps for any amount of accounts you'd want. Keep in mind to use different accounts.
 
 Thanks to PlaceNL & PlaceUK for the bot we've based this on!
