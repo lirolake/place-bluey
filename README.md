@@ -4,7 +4,7 @@
 2. Click this link: [https://github.com/lirolake/place-bluey/raw/main/blueytemplate.user.js](https://github.com/lirolake/place-bluey/raw/main/blueytemplate.user.js)
 
 
-## Automatic placement
+## NodeJS Script (Automatic placement)
 
 ### How to get your reddit_session cookie
 **NOTE: People have reported that this is annoying to do on chrome because text gets unselected. Therefore, we recommend that you use Firefox.**
