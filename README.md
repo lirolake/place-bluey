@@ -1,3 +1,7 @@
+## Command Server Offline
+The command server is now offline. This repo is staying public for archive purposes
+
+
 ## Tampermonkey overlay (Manual Placement)
 
 1. Install Tampermonkey [https://www.tampermonkey.net/](https://www.tampermonkey.net/) The link will be right for your browser (Seems to work best in chrome)
