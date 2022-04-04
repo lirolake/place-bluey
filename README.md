@@ -20,7 +20,9 @@ You could also use a cookie editor extension such as [https://chrome.google.com/
 4. Open the folder that you just extracted, in Windows hold Shift and use right click in the folder -> Click on "open Powershell here"
 5. In the Powershell window, type `npm ci`
 6. Once complete, you can then type: `node bot.js SESSION_COOKIE_HERE`
+
 Note: This window needs to stay open for it to work, do not close the Powershell window
+
 
 BONUS: You can repeat these steps for any amount of accounts you'd want. Keep in mind to use different accounts.
 
