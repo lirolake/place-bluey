@@ -1,3 +1,9 @@
+## Tampermonkey overlay (Manual Placement)
+
+1. Install Tampermonkey [https://www.tampermonkey.net/](https://www.tampermonkey.net/) The link will be right for your browser (Seems to work best in chrome)
+2. Click this link: [https://github.com/lirolake/place-bluey/raw/main/blueytemplate.user.js](https://github.com/lirolake/place-bluey/raw/main/blueytemplate.user.js)
+
+
 ## Automatic placement
 
 ### How to get your reddit_session cookie
